@@ -35,6 +35,8 @@ object Demo {
     dfInputData.show(false)
     dfInputData.printSchema()
 
+    println("Se realizaron pruebas unitarias")
+
 
   }
 
